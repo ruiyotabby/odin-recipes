@@ -1,3 +1,3 @@
 # odin-recipes
 
-A website showcasing recipe for some delicacies
+A website showcasing recipe for some African delicacies
